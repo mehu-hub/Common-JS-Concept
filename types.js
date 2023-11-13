@@ -32,6 +32,7 @@ console.log(x, y)
 y = 7;
 console.log(x, y)
 
+// Reasign non Primitive
 let p = {job: 'Web Developer'};
 let q = p;
 // q = {job: 'Backend Developer'}
